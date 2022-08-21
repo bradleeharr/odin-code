@@ -1,0 +1,87 @@
+.external {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+.odd {
+    background-color: rgba(255, 72, 0, 0.363);
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+.odd.cooler {
+    font-size: 24px;
+}
+#one {
+    color: blue;
+    font-size: 36px;
+}
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.buttonleft, .buttonright {
+    font-size: 28px;
+    font: Helvetica, Times New Roman, sans-serif;
+}
+.buttonleft {
+    color: white;
+    background-color: black;
+}
+.buttonright {
+    color: black;
+    background-color: yellow;
+}
+
+.container > .text {
+    color: red;
+}
+
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+}
+
+.para.small-para {
+  font-size: 14px;
+}
+
+.para {
+  font-size: 22px;
+}
+
+.button.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+div.text.child {
+  color: red;
+  font-size: 14px;
+}
+
+div.text {
+  color: green;
+  font-size: 22px;
+}
+
+.box-one {
+  background-color: #EB5757;
+  padding: 20px;
+  border: 20px solid #9B51E0;
+  margin: 20px;
+}
+
+.box-two {
+  background-color: #2D9CDB;
+  border: 0 solid #27AE60;
+}
